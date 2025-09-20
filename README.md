@@ -288,13 +288,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *This project is created with deep respect and admiration for Zubeen Garg's contribution to Assamese music and culture. It aims to preserve his iconic image for future generations who will continue to be inspired by his musical genius.*
 
-## 📞 Support
-
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/zubeen-garg-ascii-tribute/issues)
-- 💡 **Tribute Ideas**: [GitHub Discussions](https://github.com/yourusername/zubeen-garg-ascii-tribute/discussions)
-- 📧 **Email**: your.email@example.com
-- 💬 **Assamese Community**: [Join cultural discussions](#)
-
 ## 🌟 Preserving Cultural Legacy
 
 If this tribute project resonated with you, please consider:
