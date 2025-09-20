@@ -4,7 +4,7 @@ A tribute to the legendary Assamese singer Zubeen Garg, transforming his iconic 
 
 *"Preserving cultural icons for future generations through the art of ASCII"*
 
-![Zubeen Garg ASCII Demo](https://via.placeholder.com/800x400/000000/FFFFFF?text=Zubeen+Garg+ASCII+Art)
+![zubeen-garg](https://github.com/user-attachments/assets/44a3e649-51ec-4da5-89be-9978493f64ad)
 
 ## 🎭 About This Cultural Tribute
 
